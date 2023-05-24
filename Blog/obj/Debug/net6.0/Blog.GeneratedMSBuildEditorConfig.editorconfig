@@ -8,157 +8,157 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blog
 build_property.RootNamespace = Blog
-build_property.ProjectDir = D:\VSCode\Final Proj 4\Blog\
+build_property.ProjectDir = D:\VSCode\COMP003B.Final\Blog\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\VSCode\Final Proj 4\Blog
+build_property.MSBuildProjectDirectory = D:\VSCode\COMP003B.Final\Blog
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/BlogPage/Create.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/BlogPage/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1BhZ2VcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/BlogPage/Delete.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/BlogPage/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1BhZ2VcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/BlogPage/Details.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/BlogPage/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1BhZ2VcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/BlogPage/Edit.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/BlogPage/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1BhZ2VcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/BlogPage/Index.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/BlogPage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1BhZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Category/Create.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Category/Delete.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Category/Details.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Category/Edit.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Category/Index.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Comment/Create.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Comment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Comment/Delete.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Comment/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Comment/Details.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Comment/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Comment/Edit.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Comment/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Comment/Index.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Comment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Home/Index.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Home/Privacy.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Post/Create.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Post/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Post/Delete.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Post/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Post/Details.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Post/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Post/Edit.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Post/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Post/Index.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Post/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Shared/Error.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Tag/Create.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Tag/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Tag/Delete.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Tag/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Tag/Details.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Tag/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Tag/Edit.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Tag/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Tag/Index.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Tag/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/User/Create.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/User/Delete.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/User/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/User/Details.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/User/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/User/Edit.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/User/Index.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/_ViewImports.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/_ViewStart.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VSCode/Final Proj 4/Blog/Views/Shared/_Layout.cshtml]
+[D:/VSCode/COMP003B.Final/Blog/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9b4f8crvh3

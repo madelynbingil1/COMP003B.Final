@@ -10537,11 +10537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSCode\\Final Proj 4\\Blog\\Blog.csproj",
+      "projectUniqueName": "D:\\VSCode\\COMP003B.Final\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "D:\\VSCode\\Final Proj 4\\Blog\\Blog.csproj",
+      "projectPath": "D:\\VSCode\\COMP003B.Final\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\elect\\.nuget\\packages\\",
-      "outputPath": "D:\\VSCode\\Final Proj 4\\Blog\\obj\\",
+      "outputPath": "D:\\VSCode\\COMP003B.Final\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elect\\AppData\\Roaming\\NuGet\\NuGet.Config"
