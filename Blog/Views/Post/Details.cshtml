@@ -30,15 +30,22 @@
         </dd>
     </dl>
 </div>
-<div class="col-md-4">
-    <h4>Category</h4>
-    <ul>
-        @foreach (Category category in ViewBag.Categories)
-        {
-            <li>@category.Name</li>
-        }
-    </ul>
-</div>
+
+<h3>Comments:</h3>
+@foreach (var comment in Model.Comments)
+{
+    <div>
+        <p>@comment.Content</p>
+        <p>Posted by: @comment.User.Username</p>
+    </div>
+}
+
+<h3>Tags:</h3>
+@foreach (var tag in Model.Tags)
+{
+    <span>@tag.Name</span>
+}
+
 <div>
     <a asp-action="Edit" asp-route-id="@Model.PostId">Edit</a> |
     <a asp-action="Index">Back to List</a>

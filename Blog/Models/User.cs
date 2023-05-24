@@ -1,5 +1,4 @@
 using System.ComponentModel.DataAnnotations;
-using System.Collections.Generic;
 
 namespace Blog.Models
 {
@@ -8,12 +7,12 @@ namespace Blog.Models
         public int UserId { get; set; }
 
         [Required]
-        public string Name { get; set; }
+        public string Username { get; set; }
 
         [Required]
         [EmailAddress]
         public string Email { get; set; }
 
-        public virtual ICollection<BlogPage> BlogPages { get; set; }
+        public virtual ICollection<Comment>? Comments { get; set; }
     }
 }

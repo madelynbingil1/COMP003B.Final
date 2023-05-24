@@ -33,19 +33,11 @@ namespace Blog.Controllers
             }
 
             var post = await _context.Post
-                .FirstOrDefaultAsync(m => m.PostId == id);
+                 .FirstOrDefaultAsync(m => m.PostId == id);
             if (post == null)
             {
                 return NotFound();
             }
-
-            ViewBag.Categories = from c in _context.Category
-            join b in _context.BlogPage
-            on c.CategoryId equals b.CategoryId
-            join p in _context.Post
-            on b.PostId equals p.PostId
-            where p.PostId == id
-            select c;
 
             return View(post);
         }

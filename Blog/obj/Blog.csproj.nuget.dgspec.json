@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCode\\COMP003B.Final\\Blog\\Blog.csproj": {}
+    "D:\\VSCode\\Final Proj\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "D:\\VSCode\\COMP003B.Final\\Blog\\Blog.csproj": {
+    "D:\\VSCode\\Final Proj\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCode\\COMP003B.Final\\Blog\\Blog.csproj",
+        "projectUniqueName": "D:\\VSCode\\Final Proj\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "D:\\VSCode\\COMP003B.Final\\Blog\\Blog.csproj",
+        "projectPath": "D:\\VSCode\\Final Proj\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\elect\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCode\\COMP003B.Final\\Blog\\obj\\",
+        "outputPath": "D:\\VSCode\\Final Proj\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elect\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.ENtityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -48,15 +52,7 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.0.0, )"
             }

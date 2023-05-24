@@ -6,9 +6,10 @@ namespace Blog.Models
     {
         public int CommentId { get; set; }
 
-        [Required]
         public string Content { get; set; }
 
-       public virtual ICollection<BlogPage> BlogPages { get; set; }
+        public virtual Post Post { get; set; }
+
+        public virtual User User { get; set; }
     }
 }

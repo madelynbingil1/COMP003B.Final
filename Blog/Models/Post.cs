@@ -1,5 +1,4 @@
 using System.ComponentModel.DataAnnotations;
-using System.Collections.Generic;
 
 namespace Blog.Models
 {
@@ -15,7 +14,8 @@ namespace Blog.Models
 
         [DataType(DataType.Date)]
         public DateTime PostDate { get; set; }
-
-        public virtual ICollection<BlogPage> BlogPages { get; set; }
+        public virtual Category Category { get; set; }
+        public virtual ICollection<Comment>? Comments { get; set; }
+        public virtual ICollection<Tag>? Tags { get; set; }
     }
 }

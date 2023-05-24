@@ -34,18 +34,11 @@ namespace Blog.Controllers
 
             var category = await _context.Category
                 .FirstOrDefaultAsync(m => m.CategoryId == id);
+
             if (category == null)
             {
                 return NotFound();
             }
-
-            ViewBag.Posts = from c in _context.Post
-                                join b in _context.BlogPage
-                                on c.PostId equals b.PostId
-                                join a in _context.Category
-                                on b.CategoryId equals a.CategoryId
-                                where a.CategoryId == id
-                                select c; 
 
             return View(category);
         }

@@ -12,15 +12,13 @@ using Blog.Models;
         {
         }
 
-        public DbSet<Blog.Models.BlogPage> BlogPage { get; set; }
-
-        public DbSet<Blog.Models.Tag> Tag { get; set; }
-
-        public DbSet<Blog.Models.User> User { get; set; }
-
-        public DbSet<Blog.Models.Post> Post { get; set; }
+        public DbSet<Blog.Models.Category> Category { get; set; }
 
         public DbSet<Blog.Models.Comment> Comment { get; set; }
 
-        public DbSet<Blog.Models.Category> Category { get; set; }
+        public DbSet<Blog.Models.Post> Post { get; set; }
+
+        public DbSet<Blog.Models.User> User { get; set; }
+
+        public DbSet<Blog.Models.Tag> Tag { get; set; }
     }
